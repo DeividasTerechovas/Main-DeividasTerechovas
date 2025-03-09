@@ -5,12 +5,10 @@
 </a>
 
 
-[Brief Introduction]
 
 I am a IT Specialist looking to delve into the world of a SOC Analyst!
 
 ## Objective
-[Provide Objective]]
 
 My journey from learning coding to learning about cybersecurity in the IT world has made me eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
