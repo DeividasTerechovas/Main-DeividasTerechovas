@@ -1,4 +1,3 @@
-# Test-DeividasTerechovas
 
 # Hello, I'm Deividas
 <a href="https://www.linkedin.com/in/deividasterechovas">
