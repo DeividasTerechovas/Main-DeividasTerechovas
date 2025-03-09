@@ -18,7 +18,7 @@ My journey from learning coding to learning about cybersecurity in the IT world 
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Cloud SIEM Implementation and Log Analysis          | <a href="https://github.com/DeividasTerechovas/Azure-Sentinel-SIEM">Azure Sentinel</a>|
+| Cloud SIEM Implementation and Log Analysis          | <a href="https://github.com/DeividasTerechovas/Azure-Sentinel-SIEM">Azure Sentinel SIEM</a>|
 | Network Traffic Monitoring and Attack Detection | <a>Coming Soon</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
@@ -59,5 +59,5 @@ My journey from learning coding to learning about cybersecurity in the IT world 
 </div>
 
 ## Projects
-- Azure Sentinel Detection
+- <a href="https://github.com/DeividasTerechovas/Azure-Sentinel-SIEM">Azure Sentinel SIEM</a>
 - ELK Mini SOC 
