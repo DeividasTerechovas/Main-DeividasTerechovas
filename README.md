@@ -17,7 +17,7 @@ My journey from learning coding to learning about cybersecurity in the IT world 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Cloud SIEM Implementation and Log Analysis          | <a href="https://github.com/DeividasTerechovas/Azure-Sentinel-SIEM">Azure Sentinel SIEM</a>|
-| Network Traffic Monitoring and Attack Detection | <a>Coming Soon</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/DeividasTerechovas/Azure-Sentinel-SIEM">Azure Sentinel SIEM</a>|
 | Work in Progress        | Work in Progress |
 | Work in Progress       | Work in Progress |
 | Work in Progress                  | Work in Progress |
@@ -58,4 +58,4 @@ My journey from learning coding to learning about cybersecurity in the IT world 
 
 ## Projects
 - <a href="https://github.com/DeividasTerechovas/Azure-Sentinel-SIEM">Azure Sentinel SIEM</a>
-- ELK Mini SOC 
+- ELK Mini SOC (Github Page Soon)
