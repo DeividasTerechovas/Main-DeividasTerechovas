@@ -50,7 +50,7 @@ My journey from learning coding to learning about cybersecurity in the IT world 
   <img src="https://img.shields.io/badge/-Azure%20Sentinel-0078D4?&style=for-the-badge&logo=microsoftazure&logoColor=white" />
 </div>
 
-## Certifications
+## Certifications - Click To See Certificate
 
 <div>
   <a href="https://app.letsdefend.io/certificate/show/be04a9be-f595-4e23-abb4-5cf9ac8df046">
