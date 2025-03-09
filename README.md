@@ -18,10 +18,10 @@ My journey from learning coding to learning about cybersecurity in the IT world 
 |-----------------------------------------------|----------------------------|
 | Cloud SIEM Implementation and Log Analysis          | <a href="https://github.com/DeividasTerechovas/Azure-Sentinel-SIEM">Azure Sentinel SIEM</a>|
 | Network Traffic Monitoring and Attack Detection | <a>Coming Soon</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Work in Progress        | Work in Progress |
+| Work in Progress       | Work in Progress |
+| Work in Progress                  | Work in Progress |
+| Work in Progress  | Work in Progress |
 
 ## Tools
 
