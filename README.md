@@ -16,7 +16,6 @@ I am a IT Specialist looking to delve into the world of a SOC Analyst!
 My journey from learning coding to learning about cybersecurity in the IT world has made me eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -28,7 +27,6 @@ My journey from learning coding to learning about cybersecurity in the IT world 
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
@@ -53,10 +51,11 @@ My journey from learning coding to learning about cybersecurity in the IT world 
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+
 <div>
   <img src="https://img.shields.io/badge/-LetsDefend%20SOC%20Analyst-0A66C2?&style=for-the-badge&logoColor=white" />
 </div>
 
 ## Projects
 - Azure Sentinel Detection
+- ELK Mini SOC 
