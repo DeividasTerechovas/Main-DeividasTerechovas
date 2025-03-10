@@ -35,6 +35,13 @@ My journey from learning coding to learning about cybersecurity in the IT world 
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
 </div>
 
+### Virtual Machines & Operating Systems
+<div>
+    <img src="https://img.shields.io/badge/-Flare--VM-FF4500?&style=for-the-badge&logo=flask&logoColor=white" />
+    <img src="https://img.shields.io/badge/-VirtualBox/VMware-FFA500?&style=for-the-badge&logo=virtualbox&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Windows_10-0078D6?&style=for-the-badge&logo=windows&logoColor=white" />
+</div>
+
 ### SIEM
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
