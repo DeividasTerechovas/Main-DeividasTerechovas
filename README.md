@@ -18,8 +18,8 @@ My journey from learning coding to learning about cybersecurity in the IT world 
 |-----------------------------------------------|----------------------------|
 | Cloud SIEM Implementation and Log Analysis          | <a href="https://github.com/DeividasTerechovas/Azure-Sentinel-SIEM">Azure Sentinel SIEM</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://github.com/DeividasTerechovas/Azure-Sentinel-SIEM">Azure Sentinel SIEM</a>|
-| Work in Progress        | Work in Progress |
-| Work in Progress       | Work in Progress |
+|Reverse Engineering Environment Setup        | <a href="https://github.com/DeividasTerechovas/Windows-Malware-Analysis-Lab"> Reverse Engineering & Malware Analysis Lab</a> |
+| VM Configuration      | <a href="https://github.com/DeividasTerechovas/Windows-Malware-Analysis-Lab"> Reverse Engineering & Malware Analysis Lab</a> |
 | Work in Progress                  | Work in Progress |
 | Work in Progress  | Work in Progress |
 
@@ -58,4 +58,5 @@ My journey from learning coding to learning about cybersecurity in the IT world 
 
 ## Projects
 - <a href="https://github.com/DeividasTerechovas/Azure-Sentinel-SIEM">Azure Sentinel SIEM</a>
+- <a href="https://github.com/DeividasTerechovas/Windows-Malware-Analysis-Lab"> Reverse Engineering & Malware Analysis Lab</a>
 - ELK Mini SOC (Github Page Soon)
