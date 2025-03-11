@@ -79,4 +79,4 @@ My journey from learning coding to learning about cybersecurity in the IT world 
 ## Projects
 - <a href="https://github.com/DeividasTerechovas/Azure-Sentinel-SIEM">Azure Sentinel SIEM</a>
 - <a href="https://github.com/DeividasTerechovas/Windows-Malware-Analysis-Lab"> Reverse Engineering & Malware Analysis Lab</a>
-- ELK Mini SOC (Github Page Soon)
+- <a href="https://github.com/DeividasTerechovas/Splunk-SIEM-Project"> Splunk SIEM Project</a>
