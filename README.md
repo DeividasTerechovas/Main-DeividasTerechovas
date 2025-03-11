@@ -75,8 +75,6 @@ My journey from learning coding to learning about cybersecurity in the IT world 
 </div>
 
 
-
-
 </div>
 
 ## Projects
