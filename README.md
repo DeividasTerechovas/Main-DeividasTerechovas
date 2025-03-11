@@ -69,9 +69,11 @@ My journey from learning coding to learning about cybersecurity in the IT world 
 ## Certifications - Click To See Certificate
 
 <div>
-  <a href="[blob:https://imgur.com/e1f55ae5-477d-4820-943f-047e686d7398](https://app.letsdefend.io/certificate/show/be04a9be-f595-4e23-abb4-5cf9ac8df046)">
-  <img src="blob:https://imgur.com/e1f55ae5-477d-4820-943f-047e686d7398" width="250"/>
-</a>
+  <a href="https://app.letsdefend.io/certificate/show/be04a9be-f595-4e23-abb4-5cf9ac8df046">
+    <img src="https://imgur.com/e1f55ae5-477d-4820-943f-047e686d7398" width="250"/>
+  </a>
+</div>
+
 
 
 </div>
