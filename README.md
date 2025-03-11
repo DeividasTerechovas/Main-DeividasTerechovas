@@ -61,6 +61,11 @@ My journey from learning coding to learning about cybersecurity in the IT world 
   <img src="https://img.shields.io/badge/-Azure%20Sentinel-0078D4?&style=for-the-badge&logo=microsoftazure&logoColor=white" />
 </div>
 
+### Data Visualization & Dashboards
+<div>
+    <div> <img src="https://img.shields.io/badge/-Splunk_Dashboard-000000?&style=for-the-badge&logo=Splunk&logoColor=white" /> </div>
+</div>
+
 ## Certifications - Click To See Certificate
 
 <div>
@@ -68,10 +73,6 @@ My journey from learning coding to learning about cybersecurity in the IT world 
     <img src="https://img.shields.io/badge/-LetsDefend%20SOC%20Analyst-0A66C2?&style=for-the-badge&logoColor=white" />
 </a>
 
-### Data Visualization @ Dashboards
-<div>
-    <div> <img src="https://img.shields.io/badge/-Splunk_Dashboard-000000?&style=for-the-badge&logo=Splunk&logoColor=white" /> </div>
-</div>
 
 </div>
 
