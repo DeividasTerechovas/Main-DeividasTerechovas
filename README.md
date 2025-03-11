@@ -29,7 +29,7 @@ My journey from learning coding to learning about cybersecurity in the IT world 
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Firewall-FF0000?&style=for-the-badge&logo=security&logoColor=white" /> 
-    <img src="https://img.shields.io/badge/-GeoIP-6A2D6B?&style=for-the-badge&logo=geo&logoColor=white" /> </div>
+    <img src="https://img.shields.io/badge/-GeoIP-6A2D6B?&style=for-the-badge&logo=geo&logoColor=white" /> 
 </div>
 
 ### Endpoint
