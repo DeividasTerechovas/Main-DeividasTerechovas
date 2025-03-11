@@ -20,8 +20,8 @@ My journey from learning coding to learning about cybersecurity in the IT world 
 | Network Traffic Monitoring and Attack Detection | <a href="https://github.com/DeividasTerechovas/Azure-Sentinel-SIEM">Azure Sentinel SIEM</a>|
 |Reverse Engineering Environment Setup        | <a href="https://github.com/DeividasTerechovas/Windows-Malware-Analysis-Lab"> Reverse Engineering & Malware Analysis Lab</a> |
 | VM Configuration      | <a href="https://github.com/DeividasTerechovas/Windows-Malware-Analysis-Lab"> Reverse Engineering & Malware Analysis Lab</a> |
-| Work in Progress                  | Work in Progress |
-| Work in Progress  | Work in Progress |
+| Basic SIEM Concepts                  | <a href="https://github.com/DeividasTerechovas/Splunk-SIEM-Project"> Splunk SIEM Project</a> |
+| Log Analysis  | <a href="https://github.com/DeividasTerechovas/Splunk-SIEM-Project"> Splunk SIEM Project</a> |
 
 ## Tools
 
