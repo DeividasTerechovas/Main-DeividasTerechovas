@@ -69,7 +69,7 @@ My journey from learning coding to learning about cybersecurity in the IT world 
 ## Certifications - Click To See Certificate
 
 <div>
-  <a href="blob:https://imgur.com/c634e916-1cb1-4f22-88f0-bbdd5091f09b">
+  <a href="https://imgur.com/c634e916-1cb1-4f22-88f0-bbdd5091f09b">
   <img src="https://img.shields.io/badge/-LetsDefend%20SOC%20Analyst-0A66C2?&style=for-the-badge&logoColor=white" />
 </a>
 
