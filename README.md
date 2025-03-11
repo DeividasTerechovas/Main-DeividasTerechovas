@@ -70,7 +70,7 @@ My journey from learning coding to learning about cybersecurity in the IT world 
 
 <div>
   <a href="https://app.letsdefend.io/certificate/show/be04a9be-f595-4e23-abb4-5cf9ac8df046">
-    <img src="https://imgur.com/e1f55ae5-477d-4820-943f-047e686d7398" width="250"/>
+  <img src="https://img.shields.io/badge/-LetsDefend_SOC_Analyst_Learning_Path-000000?&style=for-the-badge&logo=LetsDefend&logoColor=white" />
   </a>
 </div>
 
