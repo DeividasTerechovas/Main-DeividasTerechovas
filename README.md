@@ -25,9 +25,11 @@ My journey from learning coding to learning about cybersecurity in the IT world 
 
 ## Tools
 
-### Network
+### Network & Security
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <div> <img src="https://img.shields.io/badge/-Firewall-FF0000?&style=for-the-badge&logo=security&logoColor=white" /> 
+        <img src="https://img.shields.io/badge/-GeoIP-6A2D6B?&style=for-the-badge&logo=geo&logoColor=white" /> </div>
 </div>
 
 ### Endpoint
@@ -49,6 +51,11 @@ My journey from learning coding to learning about cybersecurity in the IT world 
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
+### Programming & Scripting Languages
+<div>
+    <div> <img src="https://img.shields.io/badge/-SPL-000000?&style=for-the-badge&logo=Splunk&logoColor=white" /> </div>
+</div>
+
 ### Cloud
 <div>
   <img src="https://img.shields.io/badge/-Azure%20Sentinel-0078D4?&style=for-the-badge&logo=microsoftazure&logoColor=white" />
@@ -60,6 +67,11 @@ My journey from learning coding to learning about cybersecurity in the IT world 
   <a href="https://app.letsdefend.io/certificate/show/be04a9be-f595-4e23-abb4-5cf9ac8df046">
     <img src="https://img.shields.io/badge/-LetsDefend%20SOC%20Analyst-0A66C2?&style=for-the-badge&logoColor=white" />
 </a>
+
+### Data Visualization @ Dashboards
+<div>
+    <div> <img src="https://img.shields.io/badge/-Splunk_Dashboard-000000?&style=for-the-badge&logo=Splunk&logoColor=white" /> </div>
+</div>
 
 </div>
 
