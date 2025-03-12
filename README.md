@@ -72,6 +72,9 @@ My journey from learning coding to learning about cybersecurity in the IT world 
   <a href="https://app.letsdefend.io/certificate/show/be04a9be-f595-4e23-abb4-5cf9ac8df046">
     <img src="https://img.shields.io/badge/-LetsDefend_SOC_Analyst_Learning_Path-000000?&style=for-the-badge&logo=LetsDefend&logoColor=white" />
   </a>
+  <a href="https://app.letsdefend.io/certificate/show/f6c2454d-01e7-4ab4-9eb5-8ed46f177bae">
+    <img src="https://img.shields.io/badge/-LetsDefend_Malware_Analysis_Skill_Path-000000?&style=for-the-badge&logo=LetsDefend&logoColor=white" />
+  </a>
 </div>
 
 
