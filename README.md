@@ -12,6 +12,7 @@ I am a IT Specialist looking to delve into the world of a SOC Analyst!
 
 My journey from learning coding to learning about cybersecurity in the IT world has made me eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
+| SIEM Pratice Alert Investigations          | <a href="https://github.com/DeividasTerechovas/SIEM-Alert-Catalog">SIEM Alert Catalog</a>|
 ## Skills
 
 | Skill                                         | Associated Project         |
