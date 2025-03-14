@@ -12,7 +12,6 @@ I am a IT Specialist looking to delve into the world of a SOC Analyst!
 
 My journey from learning coding to learning about cybersecurity in the IT world has made me eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
-| SIEM Pratice Alert Investigations          | <a href="https://github.com/DeividasTerechovas/SIEM-Alert-Catalog">SIEM Alert Catalog</a>|
 ## Skills
 
 | Skill                                         | Associated Project         |
@@ -23,6 +22,11 @@ My journey from learning coding to learning about cybersecurity in the IT world 
 | VM Configuration      | <a href="https://github.com/DeividasTerechovas/Windows-Malware-Analysis-Lab"> Reverse Engineering & Malware Analysis Lab</a> |
 | Basic SIEM Concepts                  | <a href="https://github.com/DeividasTerechovas/Splunk-SIEM-Project"> Splunk SIEM Project</a> |
 | Log Analysis  | <a href="https://github.com/DeividasTerechovas/Splunk-SIEM-Project"> Splunk SIEM Project</a> |
+
+
+| SIEM Practice Alerts                                        | Alert Repo         |
+|-----------------------------------------------|----------------------------|
+|  SOC335-CVE-2024-49138-Exploitation-Detected         | <a href="https://github.com/DeividasTerechovas/SOC335-CVE-2024-49138-Exploitation-Detected">Full Detail Here</a>|
 
 ## Tools
 
