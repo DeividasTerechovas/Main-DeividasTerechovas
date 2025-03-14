@@ -24,6 +24,8 @@ My journey from learning coding to learning about cybersecurity in the IT world 
 | Log Analysis  | <a href="https://github.com/DeividasTerechovas/Splunk-SIEM-Project"> Splunk SIEM Project</a> |
 
 
+## SIEM Practice Alerts
+
 | SIEM Practice Alerts                                        | Alert Repo         |
 |-----------------------------------------------|----------------------------|
 |  SOC335-CVE-2024-49138-Exploitation-Detected         | <a href="https://github.com/DeividasTerechovas/SOC335-CVE-2024-49138-Exploitation-Detected">Full Detail Here</a>|
