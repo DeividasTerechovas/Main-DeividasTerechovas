@@ -10,7 +10,7 @@ I am a IT Specialist looking to delve into the world of a SOC Analyst!
 
 ## Objective
 
-My journey from learning coding to learning about cybersecurity in the IT world has made me eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey from IT Support to System Engineering to learning about Cybersecurity in the IT world has made me eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Skills
 
