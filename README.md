@@ -12,16 +12,16 @@ I am a IT Specialist looking to delve into the world of a SOC Analyst!
 
 My journey from IT Support to System Engineering to learning about Cybersecurity in the IT world has made me eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
-## Skills
+## Projects
 
-| Skill                                         | Associated Project         |
+| Projects                                      | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Cloud SIEM Implementation and Log Analysis          | <a href="https://github.com/DeividasTerechovas/Azure-Sentinel-SIEM">Azure Sentinel SIEM</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/DeividasTerechovas/Azure-Sentinel-SIEM">Azure Sentinel SIEM</a>|
-|Reverse Engineering Environment Setup        | <a href="https://github.com/DeividasTerechovas/Windows-Malware-Analysis-Lab"> Reverse Engineering & Malware Analysis Lab</a> |
-| VM Configuration      | <a href="https://github.com/DeividasTerechovas/Windows-Malware-Analysis-Lab"> Reverse Engineering & Malware Analysis Lab</a> |
-| Basic SIEM Concepts                  | <a href="https://github.com/DeividasTerechovas/Splunk-SIEM-Project"> Splunk SIEM Project</a> |
-| Log Analysis  | <a href="https://github.com/DeividasTerechovas/Splunk-SIEM-Project"> Splunk SIEM Project</a> |
+| Azure Honeynet & SOC Setup and Results        | <a href="https://github.com/DeividasTerechovas/Azure-Honeynet-with-SOC-Setup">Azure Honeynet and SOC</a>|
+| Azure Beginner Honeypot & Setup | <a href="https://github.com/DeividasTerechovas/Azure-Sentinel-SIEM">Azure Sentinel SIEM</a>|
+|Windows Malware Analysis Lab| <a href="https://github.com/DeividasTerechovas/Windows-Malware-Analysis-Lab"> Reverse Engineering & Malware Analysis Lab</a> |
+| Linux Malware Analysis Lab      | Coming Soon |
+| Splunk Basic Setup                  | <a href="https://github.com/DeividasTerechovas/Splunk-SIEM-Project"> Splunk SIEM Project</a> |
+
 
 
 ## SIEM Practice Alerts
@@ -86,8 +86,3 @@ My journey from IT Support to System Engineering to learning about Cybersecurity
 
 
 </div>
-
-## Projects
-- <a href="https://github.com/DeividasTerechovas/Azure-Sentinel-SIEM">Azure Sentinel SIEM</a>
-- <a href="https://github.com/DeividasTerechovas/Windows-Malware-Analysis-Lab"> Reverse Engineering & Malware Analysis Lab</a>
-- <a href="https://github.com/DeividasTerechovas/Splunk-SIEM-Project"> Splunk SIEM Project</a>
