@@ -17,7 +17,7 @@ My journey from IT Support to System Engineering to learning about Cybersecurity
 | Projects                                      | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Azure Honeynet & SOC Setup and Results        | <a href="https://github.com/DeividasTerechovas/Azure-Honeynet-with-SOC-Setup">Azure Honeynet and SOC</a>|
-| Azure Beginner Honeypot & Setup | <a href="https://github.com/DeividasTerechovas/Azure-Sentinel-SIEM">Azure Sentinel SIEM</a>|
+| Azure Beginner Setup | <a href="https://github.com/DeividasTerechovas/Azure-Sentinel-SIEM">Azure Sentinel SIEM</a>|
 |Windows Malware Analysis Lab| <a href="https://github.com/DeividasTerechovas/Windows-Malware-Analysis-Lab"> Reverse Engineering & Malware Analysis Lab</a> |
 | Linux Malware Analysis Lab      | Coming Soon |
 | Splunk Basic Setup                  | <a href="https://github.com/DeividasTerechovas/Splunk-SIEM-Project"> Splunk SIEM Project</a> |
