@@ -61,7 +61,10 @@ My journey from IT Support to System Engineering to learning about Cybersecurity
 
 ### Programming & Scripting Languages
 <div>
-    <div> <img src="https://img.shields.io/badge/-SPL-000000?&style=for-the-badge&logo=Splunk&logoColor=white" /> </div>
+    <img src="https://img.shields.io/badge/-SPL-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-KQL-000000?&style=for-the-badge&logo=Microsoft-Azure&logoColor=white" />
+
+
 </div>
 
 ### Cloud
