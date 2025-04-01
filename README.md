@@ -30,6 +30,7 @@ My journey from IT Support to System Engineering to learning about Cybersecurity
 |-----------------------------------------------|----------------------------|
 |  SOC335-CVE-2024-49138-Exploitation-Detected         | <a href="https://github.com/DeividasTerechovas/SOC335-CVE-2024-49138-Exploitation-Detected">Full Detail Here</a>|
 | SOC176 - RDP Brute Force Detected                    | <a href="https://github.com/DeividasTerechovas/SOC176-RDP-Brute-Force-Detected"> Full Detail Here</a>|
+| SOC227 - Microsoft SharePoint Server Elevation of Privilege (CVE-2023-29357 Exploitation)                   | <a href="https://github.com/DeividasTerechovas/SOC227-Microsoft-SharePoint-Server-Elevation-of-Privilege-Possible-CVE-2023-29357-Exploitation"> Full Detail Here</a>|
 ## Tools
 
 ### Network & Security
